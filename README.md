@@ -24,32 +24,9 @@ Motivated sophomore at UC Davis pursuing an internship in Machine Learning, Arti
 **Expected Graduation:** [June, 2027]
 **GPA:** 3.68
 
-**Relevant Coursework:**
-
-- **Programming & Problem Solving (ECS 36A):** Algorithm design, debugging, UNIX tools, C programming, recursion, libraries.
-- **Software Development & Object-Oriented Programming in C++ (ECS 36B):** Polymorphism, templates, memory allocation.
-- **Discrete Mathematics for Computer Science (ECS 20):** Inductive proofs, Big-O notation, graph theory.
-- **Computer Organization & Machine-Dependent Programming (ECS 50):** Assembly language, memory architecture, I/O programming.
-
 ---
 
-### **Technical Skills**
-
-- **Programming Languages:** Python, C++, C, Shell Scripting
-- **Tools & Technologies:** UNIX/Linux, Git, gdb, Makefile
-- **Concepts:** Object-Oriented Programming, Data Structures (lists, trees, graphs), Algorithms, Debugging, Recursion, Big-O Notation, Assembly Language
-- **Areas of Interest:** Machine Learning, Artificial Intelligence, Data Science
-
----
-
-### **Projects & Academic Highlights**
-
-#### **dAIlectics**
-
-- Exploration of OpenAI and Anthropic API functionality.
-- Created utility to initiate conversation between the two AI service providers.
-- As a user you provide the starting prompt, which provider to lead with and the number of iterations.
-- <https://github.com/SorenMIbsen/dAIlectics>
+### **Relevant Coursework**
 
 #### **Programming & Problem Solving (ECS 36A):**
 
@@ -72,6 +49,25 @@ Motivated sophomore at UC Davis pursuing an internship in Machine Learning, Arti
 - Programmed in assembly languages for CISC and RISC architectures.
 - Explored memory architecture, I/O programming, and system software roles.
 - Wrote C and assembly programs for efficiency optimization.
+---
+
+### **Technical Skills**
+
+- **Programming Languages:** Python, C++, C, Shell Scripting
+- **Tools & Technologies:** UNIX/Linux, Git, gdb, Makefile
+- **Concepts:** Object-Oriented Programming, Data Structures (lists, trees, graphs), Algorithms, Debugging, Recursion, Big-O Notation, Assembly Language
+- **Areas of Interest:** Machine Learning, Artificial Intelligence, Data Science
+
+---
+
+### **Projects**
+
+#### **dAIlectics**
+
+- Exploration of OpenAI and Anthropic API functionality.
+- Created utility to initiate conversation between the two AI service providers.
+- As a user you provide the starting prompt, which provider to lead with and the number of iterations.
+- <https://github.com/SorenMIbsen/dAIlectics>
 
 ---
 
