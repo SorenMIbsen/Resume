@@ -49,6 +49,7 @@ Motivated sophomore at UC Davis pursuing an internship in Machine Learning, Arti
 - Programmed in assembly languages for CISC and RISC architectures.
 - Explored memory architecture, I/O programming, and system software roles.
 - Wrote C and assembly programs for efficiency optimization.
+
 ---
 
 ### **Technical Skills**
