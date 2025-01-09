@@ -75,40 +75,31 @@ Motivated sophomore at UC Davis pursuing an internship in Machine Learning, Arti
 
 ---
 
-### **Professional Experience**
+### **Work Experience**
 
 **Loving Spoonful**
-*Frojo Server Extraordinaire*
+*Customer Service*
 **Fall 2022-Spring 2023**
-
-- Interfaced with customers
-- Managed transactions and inventory
-- Closed and opened store front
 
 **Fresco Cafe**
 *Busboy*
 **Fall 2017**
 
-- Assisted with food service and table maintenance, improving customer satisfaction.
-- Supported kitchen operations and coordinated food preparation tasks.
-
 **Kyle’s Kitchen**
 *Busboy*
 **Fall 2016**
-
-- Provided excellent customer service by maintaining cleanliness and restocking supplies.
-- Worked collaboratively during peak hours to ensure operational efficiency.
 
 ---
 
 ### **Extracurricular Activities**
 
-**School for Scientific Thought (SST) at Center for Science and Engineering Partnerships UCSB**,
-*Computer Ethics: Reshaping Society Through Technology*
+**School for Scientific Thought (SST) at Center for Science and Engineering Partnerships UCSB**
+
+- Computer Ethics: Reshaping Society Through Technology
 **Winter 2020**
 
-- Explored the ethical and societal implications of Big Data, Machine Learning, and Human-Computer Interaction.
-- Developed critical thinking skills in engaging with technology and its impact on society.
+- The Quantum Race: An Exploration into Quantum Computing
+**Fall 2019**
 
 **Hello World**
 *Visual Design Intern*
@@ -117,17 +108,10 @@ Motivated sophomore at UC Davis pursuing an internship in Machine Learning, Arti
 - Designed mockups for an iOS app and website aimed at collecting environmental data.
 - Collaborated with a team to enhance the user interface and user experience.
 
-**School for Scientific Thought (SST) at Center for Science and Engineering Partnerships UCSB**,
-*The Quantum Race: An Exploration into Quantum Computing*
-**Fall 2019**
-
-- Learned the fundamentals of quantum computing and its applications.
-- Participated in hands-on activities and attended talks from leading researchers.
-
 ---
 
 ### **Additional Information**
 
 - **Interests:** Machine Learning, Data Visualization, Environmental Data Analysis
 
-- Computer Science Academy, Santa Babara High School - graduated with Master of Code (Career Technical Education) CTE Certificate
+- Computer Science Academy(2018-2022), Santa Babara High School - graduated with Master of Code (Career Technical Education) CTE Certificate
